@@ -1,0 +1,5 @@
+watchdog
+fpdf
+python-docx
+Pillow
+pypiwin32
